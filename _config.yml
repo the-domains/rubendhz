@@ -1,0 +1,28 @@
+name: ruben
+favicon: null
+layout_spectrum: 0.5542876881081611
+typography_spectrum: 0.8090376127511263
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.07616110215894878
+  lightness: 0.3263794977683574
+  saturation: 0.4763746450189501
+  rhythmicContrast: 0.9351535346359015
+purpose: []
