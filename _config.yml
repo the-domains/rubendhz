@@ -3,7 +3,9 @@ layout_spectrum: 0.5542876881081611
 typography_spectrum: 0.8090376127511263
 cta: {}
 analytics: {}
-opengraph: {}
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#E0FBFC'
@@ -16,3 +18,10 @@ color:
   saturation: 0.4763746450189501
   rhythmicContrast: 0.9351535346359015
 purpose: []
+title: ''
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
