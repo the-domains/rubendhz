@@ -1,4 +1,9 @@
+name: ruben
+layout_spectrum: 0.5542876881081611
+typography_spectrum: 0.8090376127511263
+cta: {}
 analytics: {}
+opengraph: {}
 color:
   brandColors:
     - '#E0FBFC'
@@ -8,11 +13,6 @@ color:
     - '#253237'
   brandStrength: 0.07616110215894878
   lightness: 0.3263794977683574
-  rhythmicContrast: 0.9351535346359015
   saturation: 0.4763746450189501
-cta: {}
-layout_spectrum: 0.5542876881081611
-name: ruben
-opengraph: {}
+  rhythmicContrast: 0.9351535346359015
 purpose: []
-typography_spectrum: 0.8090376127511263
